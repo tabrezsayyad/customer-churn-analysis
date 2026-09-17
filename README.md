@@ -55,7 +55,8 @@ The main objective is to analyze churn patterns, compare customer and subscripti
 - Revenue at Risk
 
 ## 8. Screenshots
-(customer-churn-analysis.png)(https://github.com/tabrezsayyad/customer-churn-analysis/blob/main/customer-churn-analysis.png)
+(customer-churn-analysis.png)
+(https://github.com/tabrezsayyad/customer-churn-analysis/blob/main/customer-churn-analysis.png)
 
 ### Analysis Preview
 
