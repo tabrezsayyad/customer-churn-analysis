@@ -54,7 +54,7 @@ The main objective is to analyze churn patterns, compare customer and subscripti
 - ARPU
 - Revenue at Risk
 
-## 8. Screenshots / Demo
+## 8. Screenshots
 
 ### Customer Churn Analysis
 ![Customer Churn Analysis](customer-churn-analysis.png)
